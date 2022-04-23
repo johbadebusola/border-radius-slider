@@ -1,0 +1,30 @@
+#test {
+  color: gray;
+}
+body{
+text-align:center;
+margin:0;
+}
+
+#container{
+background:lightblue;
+padding:2em;
+height:100vh;
+
+}
+#output{
+color:white;}
+
+h1{
+color:white;
+}
+
+#result{
+width:100px;
+background:chocolate;
+height:100px;
+margin:auto;
+color:white;
+padding:2em;
+
+}
